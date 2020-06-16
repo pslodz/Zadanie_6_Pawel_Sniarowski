@@ -1,0 +1,10 @@
+<Employees>
+  <Employee>
+    <EmployeeID>1</EmployeeID>
+    <CompanyName>Test</CompanyName>
+    <ContactName>Test</ContactName>
+    <ContactTitle>Test</ContactTitle>
+    <EmployeeAddress>Test</EmployeeAddress>
+    <PostalCode>Test</PostalCode>
+  </Employee>
+</Employees>
